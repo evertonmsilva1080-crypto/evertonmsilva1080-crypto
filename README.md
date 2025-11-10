@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩🏻‍💻 Everton Silva
 
-<!--
-**evertonmsilva1080-crypto/evertonmsilva1080-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Olá! Me chamo Everton estou estudando para ser Desenvolvedor Full Stack 💻`**
 
-Here are some ideas to get you started:
+- 💼 Atualmente estou estudando e em busca da minha primeira oportunidade
+- ✍🏼 Atualmente estudo na Análise e Desenvolvimento na Unit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-thiagom&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-thiagom&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Th-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Th-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+##
