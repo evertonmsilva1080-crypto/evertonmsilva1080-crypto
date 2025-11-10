@@ -7,10 +7,11 @@
 - ✍🏼 Atualmente estudo na Análise e Desenvolvimento na Unit;
 
 <div style="display: inline_block"><br>
-  <a href="https://www.w3schools.com">
+  <a href="https://www.instagram.com/evertons1lva7/">
     <img align="center" alt="Th-CSS" height="30" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">
   </a>
 </div>
+<h1></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-thiagom&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonmsilva1080-crypto&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
