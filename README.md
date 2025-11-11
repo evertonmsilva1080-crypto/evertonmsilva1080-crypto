@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Olá! Me chamo Everton estou estudando para ser Desenvolvedor Full Stack, 💻.</div> 
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Olá! Me chamo Everton sou estudante de análise e desenvolvimento de sistema (ADS) para ser Desenvolvedor Full Stack, 💻.</div> 
 
 - 🎨 Desing gráfico;
 - 💼 Atualmente estou estudando e em busca da minha primeira oportunidade;
