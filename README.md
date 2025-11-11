@@ -13,7 +13,7 @@
 </div>
 <h1></h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-thiagom&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonmsilva1080-crypto&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonmsilva1080-crypto&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonmsilva1080-crypto&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Th-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
