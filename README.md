@@ -14,8 +14,9 @@
   <a href="https://www.instagram.com/evertons1lva7/">
     <img align="center" alt="Th-CSS" height="30" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">
   </a>
-  <a href="">
-    <img align="center" alt="Th-CSS" height="30" width="40" src="">
+  <a href="https://www.linkedin.com/in/everton-m-silva/">
+    <img align="center" alt="Th-CSS" height="30" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg">
+  </a>
 </div>
 
 ##
