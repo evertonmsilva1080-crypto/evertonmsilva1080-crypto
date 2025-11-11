@@ -2,7 +2,7 @@
 
 **`Olá! Me chamo Everton estou estudando para ser Desenvolvedor Full Stack, 💻`**
 
-- 🎨 Faço atualmente freelancer de desing;
+- 🎨 Desing gráfico;
 - 💼 Atualmente estou estudando e em busca da minha primeira oportunidade;
 - ✍🏼 Atualmente estudo na Análise e Desenvolvimento na Unit;
 
