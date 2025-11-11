@@ -10,14 +10,10 @@
 - 💼 Atualmente estou estudando e em busca da minha primeira oportunidade;
 - ✍🏼 Atualmente estudo na Análise e Desenvolvimento na Unit;
 
-<div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/evertons1lva7/">
-    <img align="center" alt="Th-CSS" height="30" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/everton-m-silva/">
-    <img align="center" alt="Th-CSS" height="30" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg">
-  </a>
+<div>
+  <a href="https://www.instagram.com/evertons1lva7/" target="_blank"><img alt="Instagram" height="40" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> <a href="https://www.linkedin.com/in/everton-m-silva/" target="_blank"><img alt="LinkedIn" height="40" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
 </div>
+
 
 ##
 
