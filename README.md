@@ -17,10 +17,6 @@
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evertonmsilva1080-crypto&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats">
-</div>
-
 <div align="center"><br>
   <img align="center" alt="Th-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
