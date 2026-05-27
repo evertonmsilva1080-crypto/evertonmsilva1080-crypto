@@ -11,7 +11,7 @@
 - ✍🏼 Atualmente estudo na Análise e Desenvolvimento na Unit;
 
 <div>
-  <a href="https://www.instagram.com/evertons1lva7/" target="_blank"><img alt="Instagram" height="40" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> <a href="https://www.linkedin.com/in/everton-m-silva/" target="_blank"><img alt="LinkedIn" height="40" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
+  <a href="https://www.instagram.com/evertons1lva7/" target="_blank"><img alt="Instagram" height="40" width="40" src=https://github.com/evertonmsilva1080-crypto/evertonmsilva1080-crypto/blob/main/instagram.svg></a> <a href="https://www.linkedin.com/in/everton-m-silva/" target="_blank"><img alt="LinkedIn" height="40" width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
 </div>
 
 
